@@ -1,0 +1,12 @@
+{
+  "size": 3,
+  "colors": [
+    {"name": "Azul", "symbol": "A", "count": 3},
+    {"name": "Rojo", "symbol": "R", "min": 2, "max": 4},
+    {"name": "Verde", "symbol": "V", "min": 2, "max": 4}
+  ],
+  "prefilled": [
+    {"row": 0, "col": 0, "color": "A"},
+    {"row": 2, "col": 2, "color": "A"}
+  ]
+}
